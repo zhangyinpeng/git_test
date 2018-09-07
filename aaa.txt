@@ -1,0 +1,7 @@
+['D:\\', 'C:\\Program Files (x86)\\Python37-32\\python37.zip', 'C:\\Program Files (x86)\\Python37-32\\DLLs', 'C:\\Program Files (x86)\\Python37-32\\lib', 'C:\\Program Files (x86)\\Python37-32', 'd:\\zenkore', 'C:\\Program Files (x86)\\Python37-32\\lib\\site-packages', 'C:\\Program Files (x86)\\Python37-32\\lib\\site-packages\\gaft-0.5.4-py3.7.egg']
+22222222222222222222
+run1
+end
+end
+qqqqqqqqqq
+zyp1.py
