@@ -1,4 +1,3 @@
-# git_test
 自己测试玩
 接着测试langtoutieji
 
@@ -9,3 +8,4 @@ in github 06035bcdc587778e04965bfbd046604a466b4ded
 ok，合并完成。
 
 20180926 1730 本地修改。
+再次在github edit，测试冲突
